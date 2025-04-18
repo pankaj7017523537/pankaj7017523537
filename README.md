@@ -31,7 +31,7 @@
 ---
 
 #### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pankaj125/)
 - 📂 [Portfolio Website](Coming Soon)
 - 🧠 [LeetCode](https://leetcode.com/Pankajrajput124)
 - 📧 pankajrajpoot415@gmail.com
