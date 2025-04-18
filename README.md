@@ -7,7 +7,7 @@
 
 #### 🔍 About Me
 - 🎓 Pursuing B.Tech in Computer Science from Galgotias University
-- 📍 Based in Aligarh, Uttar Pradesh
+- 📍 Lives in Aligarh, Uttar Pradesh
 - 🧠 Interested in Artificial Intelligence, Machine Learning, Deep Learning, and Web Development
 - 💡 I build projects that solve real-life problems and improve quality of life
 - 🧪 Currently researching brain tumor detection using ML & medical imaging
@@ -16,14 +16,14 @@
 
 #### 🚀 What I Do
 - 🤖 AI/ML Development (Flask, Scikit-learn, TensorFlow, OpenCV)
-- 🌐 Web Development (React.js, Node.js, Express, MongoDB)
+- 🌐 Web Development (React.js, Node.js, MongoDB)
 - 🧩 Hackathon Enthusiast — always exploring new tech stacks
 - 🛠️ Building AI-powered apps, prediction models, and automation tools
 
 ---
 
 #### 🧰 Tech Stack
-- Languages: Python, JavaScript, Java, C/C++
+- Languages: Python, JavaScript, Java, C
 - AI/ML: Scikit-learn, Pandas, NumPy, TensorFlow
 - Web: React, HTML, CSS, Node.js, Flask
 - Tools: Git, GitHub, VS Code, Postman, Streamlit
