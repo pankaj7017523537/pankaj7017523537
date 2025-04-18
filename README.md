@@ -34,7 +34,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
 - 📂 [Portfolio Website](Coming Soon)
 - 🧠 [LeetCode](https://leetcode.com/Pankajrajput124)
-- 📧 pankaj7017523537@gmail.com
+- 📧 pankajrajpoot415@gmail.com
 
 ---
 
